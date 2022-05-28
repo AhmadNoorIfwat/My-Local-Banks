@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+    <string name="buttonDbs">DBS</string>
+    <string name="buttonOcbc">OCBC</string>
+    <string name="buttonUob">UOB</string>
+    <string name="header">Choose Banks</string>
+    <string name="dbsBtn">DBS</string>
+    <string name="ocbcBtn">OCBC</string>
+    <string name="uobBtn">UOB</string>
+    <string name="uobTxt">UOB</string>
+    <string name="ocbcTxt">OCBC</string>
+    <string name="dbsTxt">DBS</string>
+
+</resources>
